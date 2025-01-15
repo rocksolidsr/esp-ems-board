@@ -1,0 +1,47 @@
+Altium Designer Pick and Place Locations
+C:\Users\srock\Downloads\esp-ems-board-main\Project Outputs for Free Documents\Pick Place\Pick Place for EMS_Bus.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       15/01/25
+Time:       12:02
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment          Layer       Footprint                        Center-X(mil) Center-Y(mil) Rotation Description          
+J4         0901200762       TopLayer    HDRV2W65P0X254_1X2_508X254X925P  375.000       -870.000      270      Connector            
+J3         282836-2         TopLayer    2828362                          656.575       -85.000       0        Connector            
+R10        RT0805FRE0710KL  BottomLayer RESC2012X60N                     250.000       -435.000      360      Resistor             
+R9         RT0805FRE0747KL  BottomLayer RESC2012X60N                     250.000       -350.000      360      Resistor             
+R8         RC0805FR-07360RL BottomLayer RESC2012X60N                     250.000       -535.000      360      Resistor             
+R7         RC0805FR-07100KL BottomLayer RESC2012X60N                     400.000       -525.000      180      Resistor             
+R6         RT0805FRE0710KL  BottomLayer RESC2012X60N                     470.000       -275.000      360      Resistor             
+R5         RC0805FR-07100RL TopLayer    RESC2012X60N                     410.000       -655.000      270      Resistor             
+R4         RC0805FR-074K7L  TopLayer    RESC2012X60N                     190.000       -1025.000     180      Resistor             
+R3         RC0805FR-074K7L  TopLayer    RESC2012X60N                     190.000       -1105.000     180      Resistor             
+R2         RC0805FR-07360RL BottomLayer RESC2012X60N                     590.000       -440.000      0        Resistor             
+R1         RC0805FR-07360RL BottomLayer RESC2012X60N                     590.000       -510.000      0        Resistor             
+Q1         MMBT3904,215     BottomLayer SOT95P230X110-3N                 745.000       -455.000      0        "Transistor BJT NPN" 
+L2         VLS3010CX-4R7M-1 TopLayer    INDPM3030X100N                   760.000       -700.000      270      Inductor             
+L1         VLS3010CX-4R7M-1 TopLayer    INDPM3030X100N                   550.000       -700.000      270      Inductor             
+J2         0901200768       TopLayer    HDRV8W65P0X254_1X8_2010X249X560P 50.000        -600.000      90       Connector            
+J1         0901200768       TopLayer    HDRV8W65P0X254_1X8_2010X249X560P 950.000       -600.000      90       Connector            
+IC2        LM393LVDR        TopLayer    SOIC127P600X175-8N               300.000       -445.000      0        "Integrated Circuit" 
+IC1        MC7805CDTRKG     BottomLayer MJD1221G                         550.000       -855.709      90       "Integrated Circuit" 
+F2         TR2_6125FF500-R  TopLayer    FUSC6127X287N                    765.000       -445.000      270      Fuse                 
+F1         TR2_6125FF500-R  TopLayer    FUSC6127X287N                    550.000       -445.000      270      Fuse                 
+D7         1N4148W_RHG      BottomLayer 1N4148WRHG                       270.000       -620.000      0        Diode                
+D6         BAT46W-E3-08     TopLayer    SOD3716X135N                     770.000       -925.000      180      "Schottky Diode"     
+D5         BAT46W-E3-08     TopLayer    SOD3716X135N                     660.000       -845.000      360      "Schottky Diode"     
+D4         BAT46W-E3-08     TopLayer    SOD3716X135N                     770.000       -1055.000     0        "Schottky Diode"     
+D3         BAT46W-E3-08     TopLayer    SOD3716X135N                     550.000       -1055.000     360      "Schottky Diode"     
+D2         BAT46W-E3-08     TopLayer    SOD3716X135N                     550.000       -925.000      180      "Schottky Diode"     
+D1         PMEG3020EJ,115   BottomLayer SODFL2512X80N                    595.000       -575.000      0        "Schottky Diode"     
+C6         885012007063     BottomLayer CAPC2012X90N                     400.000       -425.000      180      Capacitor            
+C5         885012107014     BottomLayer CAPC2012X135N                    405.000       -350.000      180      Capacitor            
+C4         885012207098     TopLayer    CAPC2012X90N                     184.685       -950.000      180      Capacitor            
+C3         885012207092     TopLayer    CAPC2012X90N                     184.685       -850.000      180      Capacitor            
+C2         885012207087     BottomLayer CAPC2012X90N                     590.000       -370.000      180      Capacitor            
+C1         885012007056     TopLayer    CAPC2012X70N                     655.000       -1145.000     180      Capacitor            
